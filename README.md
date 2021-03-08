@@ -164,3 +164,7 @@ Bad-quality gaussian blur with changing blur strength. But it works!
 - At negative values displays the black screen.
 - At small values image becomes too bright.
 ____
+## License
+> MIT License\
+> Copyright (c) 2021 Lisowolf\
+See the [license](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE) file for more information.
