@@ -5,4 +5,4 @@ This is simple and bad-quality HLSL shaders for MonoGame, written based on templ
 ____
 > MIT License\
 > Copyright (c) 2021 Lisowolf\
-See the [License](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE) file for more information.
+Check the [License](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE) file for more information.
