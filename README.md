@@ -3,7 +3,6 @@ This is simple and bad-quality HLSL shaders for MonoGame, written based on templ
 
 [How to use in your project](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/HOW-TO-USE.md) | [Shader list](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/SHADER-LIST.md) | [License](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE)
 ____
-## License
 > MIT License\
 > Copyright (c) 2021 Lisowolf\
-See the [license](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE) file for more information.
+See the [License](https://github.com/Lisowolf/MonoGame-HLSL/blob/main/LICENSE) file for more information.
